@@ -239,7 +239,13 @@ const PeriodRow = ({ entry, colors, past = false }) => (
 
 const GreetingCard = ({ colors, now }) => {
   const hour = now.getHours();
-  const greeting = hour < 12 ? 'Good morning' : hour < 17 ? 'Good afternoon' : 'Good evening';
+  const greeting = hour < 5 || hour >= 21
+    ? 'Good night'
+    : hour < 12
+      ? 'Good morning'
+      : hour < 17
+        ? 'Good afternoon'
+        : 'Good evening';
   const dateText = now.toLocaleDateString('en-GB', {
     weekday: 'long',
     day: 'numeric',

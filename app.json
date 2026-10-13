@@ -2,7 +2,7 @@
   "expo": {
     "name": "HUB CSE Club",
     "slug": "hub-cse-club",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "assetBundlePatterns": [
@@ -16,6 +16,7 @@
     },
     "android": {
       "package": "com.classroutine.app",
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1E1B3A"
