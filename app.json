@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "HUB CSE Club",
+    "slug": "hub-cse-club",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["assets/pdfs/*"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F2FB"
+    },
+    "android": {
+      "package": "com.classroutine.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1E1B3A"
+      }
+    },
+    "extra": {
+      "questionBankUrl": "https://fardin-prodhan.github.io/HUB_CSE_Question_Bank_V2/",
+      "updateManifestUrl": "https://raw.githubusercontent.com/shuvoCodes/CSE-Clab-App/main/update.json"
+    }
+  }
+}

@@ -1,0 +1,246 @@
+[
+  {
+    "courseCode": "ACT215",
+    "courseTitle": "Financial and Managerial Accounting"
+  },
+  {
+    "courseCode": "BAN211",
+    "courseTitle": "History of Emergence of Bangladesh"
+  },
+  {
+    "courseCode": "CSE112",
+    "courseTitle": "Basic Computer Skills"
+  },
+  {
+    "courseCode": "CSE113",
+    "courseTitle": "Discrete Mathematics"
+  },
+  {
+    "courseCode": "CSE117",
+    "courseTitle": "Engineering Ethics and Cyber Law"
+  },
+  {
+    "courseCode": "CSE121",
+    "courseTitle": "Structured Programming Language"
+  },
+  {
+    "courseCode": "CSE122",
+    "courseTitle": "Structured Programming Language Lab"
+  },
+  {
+    "courseCode": "CSE213",
+    "courseTitle": "Digital Electronics"
+  },
+  {
+    "courseCode": "CSE214",
+    "courseTitle": "Digital Electronics Lab"
+  },
+  {
+    "courseCode": "CSE215",
+    "courseTitle": "Data Structure"
+  },
+  {
+    "courseCode": "CSE216",
+    "courseTitle": "Data Structure Lab"
+  },
+  {
+    "courseCode": "CSE221",
+    "courseTitle": "Computer Algorithms"
+  },
+  {
+    "courseCode": "CSE222",
+    "courseTitle": "Computer Algorithms Lab"
+  },
+  {
+    "courseCode": "CSE223",
+    "courseTitle": "Object Oriented Programming"
+  },
+  {
+    "courseCode": "CSE224",
+    "courseTitle": "Object Oriented Programming Lab"
+  },
+  {
+    "courseCode": "CSE225",
+    "courseTitle": "Digital Logic Design"
+  },
+  {
+    "courseCode": "CSE226",
+    "courseTitle": "Digital Logic Design Lab"
+  },
+  {
+    "courseCode": "CSE227",
+    "courseTitle": "Data Communication"
+  },
+  {
+    "courseCode": "CSE229",
+    "courseTitle": "Computer Architecture"
+  },
+  {
+    "courseCode": "CSE311",
+    "courseTitle": "Theory of Computing"
+  },
+  {
+    "courseCode": "CSE313",
+    "courseTitle": "Database Management System"
+  },
+  {
+    "courseCode": "CSE314",
+    "courseTitle": "Database Management System Lab"
+  },
+  {
+    "courseCode": "CSE315",
+    "courseTitle": "Microprocessors & Embedded System"
+  },
+  {
+    "courseCode": "CSE316",
+    "courseTitle": "Microprocessors & Embedded System Lab"
+  },
+  {
+    "courseCode": "CSE317",
+    "courseTitle": "Computer Networks"
+  },
+  {
+    "courseCode": "CSE318",
+    "courseTitle": "Computer Networks Lab"
+  },
+  {
+    "courseCode": "CSE321",
+    "courseTitle": "Operating System"
+  },
+  {
+    "courseCode": "CSE322",
+    "courseTitle": "Operating System Lab"
+  },
+  {
+    "courseCode": "CSE323",
+    "courseTitle": "System Analysis & Design"
+  },
+  {
+    "courseCode": "CSE324",
+    "courseTitle": "System Analysis & Design Lab"
+  },
+  {
+    "courseCode": "CSE325",
+    "courseTitle": "Computer Peripherals & Interfacing"
+  },
+  {
+    "courseCode": "CSE326",
+    "courseTitle": "Computer Peripherals & Interfacing Lab"
+  },
+  {
+    "courseCode": "CSE411",
+    "courseTitle": "Artificial Intelligence"
+  },
+  {
+    "courseCode": "CSE412",
+    "courseTitle": "Artificial Intelligence Lab"
+  },
+  {
+    "courseCode": "CSE413",
+    "courseTitle": "Computer Graphics"
+  },
+  {
+    "courseCode": "CSE414",
+    "courseTitle": "Computer Graphics Lab"
+  },
+  {
+    "courseCode": "CSE415",
+    "courseTitle": "Digital Signal Processing"
+  },
+  {
+    "courseCode": "CSE416",
+    "courseTitle": "Digital Signal Processing Lab"
+  },
+  {
+    "courseCode": "CSE417",
+    "courseTitle": "Compiler Design"
+  },
+  {
+    "courseCode": "CSE418",
+    "courseTitle": "Compiler Design Lab"
+  },
+  {
+    "courseCode": "CSE419",
+    "courseTitle": "Communication Engineering"
+  },
+  {
+    "courseCode": "CSE421",
+    "courseTitle": "Software Engineering"
+  },
+  {
+    "courseCode": "CSE423",
+    "courseTitle": "Digital Image Processing"
+  },
+  {
+    "courseCode": "CSE424",
+    "courseTitle": "Digital Image Processing Lab"
+  },
+  {
+    "courseCode": "CSE429",
+    "courseTitle": "Project/Thesis/Internship"
+  },
+  {
+    "courseCode": "EEE117",
+    "courseTitle": "Electrical Engineering"
+  },
+  {
+    "courseCode": "EEE127",
+    "courseTitle": "Electronic Devices & Circuits"
+  },
+  {
+    "courseCode": "EEE128",
+    "courseTitle": "Electrical and Electronic Circuits Lab"
+  },
+  {
+    "courseCode": "ENG111",
+    "courseTitle": "English Basics"
+  },
+  {
+    "courseCode": "ENG127",
+    "courseTitle": "English Skills"
+  },
+  {
+    "courseCode": "ENS221",
+    "courseTitle": "Environmental Science"
+  },
+  {
+    "courseCode": "MAT115",
+    "courseTitle": "Differential & Integral Calculus"
+  },
+  {
+    "courseCode": "MAT125",
+    "courseTitle": "Linear Algebra & Complex Variables"
+  },
+  {
+    "courseCode": "MAT213",
+    "courseTitle": "Statistics and Probability"
+  },
+  {
+    "courseCode": "MAT217",
+    "courseTitle": "Ordinary & Partial Differential Equation"
+  },
+  {
+    "courseCode": "MAT317",
+    "courseTitle": "Mathematical Methods"
+  },
+  {
+    "courseCode": "MAT323",
+    "courseTitle": "Numerical Analysis"
+  },
+  {
+    "courseCode": "MGT329",
+    "courseTitle": "Industrial and Operational Management"
+  },
+  {
+    "courseCode": "PHY111",
+    "courseTitle": "Physics I"
+  },
+  {
+    "courseCode": "PHY121",
+    "courseTitle": "Physics II"
+  },
+  {
+    "courseCode": "PHY122",
+    "courseTitle": "Physics II Lab"
+  }
+]
