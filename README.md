@@ -19,6 +19,8 @@ npm run check
 
 ## Build an Android APK
 
+Download the latest published APK from [GitHub Releases](https://github.com/shuvoCodes/CSE-Clab-App/releases/latest).
+
 The app is linked to the Expo project `@shuvocodes/hub-cse-club`. Build an installable APK with the configured EAS preview profile:
 
 ```bash
