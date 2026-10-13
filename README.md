@@ -17,6 +17,16 @@ Use Expo Go or an Android emulator from the Expo development server. To produce 
 npm run check
 ```
 
+## Build an Android APK
+
+The app is linked to the Expo project `@shuvocodes/hub-cse-club`. Build an installable APK with the configured EAS preview profile:
+
+```bash
+npx eas-cli build --platform android --profile preview
+```
+
+EAS manages the Android signing credentials for this project. Keep them unchanged for future releases so Android can install new versions over the existing app.
+
 ## Included now
 
 - Five-tab floating navigation and the six designed app screens, with Plus Jakarta Sans bundled for offline use.

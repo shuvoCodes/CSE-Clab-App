@@ -5,7 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
-    "assetBundlePatterns": ["assets/pdfs/*"],
+    "assetBundlePatterns": [
+      "assets/pdfs/*"
+    ],
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -21,7 +23,11 @@
     },
     "extra": {
       "questionBankUrl": "https://fardin-prodhan.github.io/HUB_CSE_Question_Bank_V2/",
-      "updateManifestUrl": "https://raw.githubusercontent.com/shuvoCodes/CSE-Clab-App/main/update.json"
-    }
+      "updateManifestUrl": "https://raw.githubusercontent.com/shuvoCodes/CSE-Clab-App/main/update.json",
+      "eas": {
+        "projectId": "9a373756-8b67-4c2a-a156-bfbe9dfc4ea3"
+      }
+    },
+    "owner": "shuvocodes"
   }
 }
